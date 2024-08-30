@@ -1,7 +1,7 @@
 # fnaf
 
 
-óla meu nome e pedro
+óla meu nome e Pedro
 
 Here are some ideas to get you stared:
 -estou estudando na[Alura](https://www.alura.com.br)
